@@ -9,5 +9,7 @@ public class IndexUtilTest extends TestCase {
 		IndexUtil indexUtil = new IndexUtil();
 		indexUtil.index();
 	}
+	
+	
 
 }
