@@ -1,4 +1,4 @@
-package xyz.anduo.lucene;
+package xyz.anduo.lucene.day01;
 
 import java.io.File;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package xyz.anduo.lucene;
+package xyz.anduo.lucene.day02;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

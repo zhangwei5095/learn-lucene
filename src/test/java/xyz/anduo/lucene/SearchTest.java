@@ -1,5 +1,6 @@
 package xyz.anduo.lucene;
 
+import xyz.anduo.lucene.day02.Search;
 import junit.framework.TestCase;
 
 public class SearchTest extends TestCase {
